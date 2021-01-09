@@ -1,0 +1,2 @@
+# Algorithms MST Kruskal's and Prim's algorithms
+ Finding the minimal spanning tree of a given graph using Kruskal's and Prim's algorithms.  用 Kruskal 和 Prim 演算法，求解給定圖的最小延展樹。  輸入：圖 G=(V, E) 和圖中各邊的權重 (成本距離...)  輸出：G 的 minimal spanning tree 或 "G 無 spanning tree"  需求功能:  1.亂數產生圖 G 的相鄰矩陣，其濃密或稀疏程度可調整，使用者可選擇是否要印出 (如提示圖)；  2.可用讀檔，讀入現有的相鄰矩陣(提示：參考老鼠走迷宮的讀檔)，以下為檔案範本，作業截圖時請用此範本可以對其進行更改但矩陣大致內容要相同(最大距離不同沒關係)。超連結 : 相鄰矩陣範例檔  3.利用Kruskal演算法找出G的最小延展樹，印出執行時間，此最小延展樹可讓使用者選定是否要印出；  4.利用Prim演算法找出G的最小延展樹，印出執行時間，此最小延展樹可讓使用者選定是否要印出。
